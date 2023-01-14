@@ -19,8 +19,8 @@
 ---
 ### My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorrint&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sorrint)](https://github.com/Sorrint/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sorrint&show_icons=true&theme=radical)
+ 
 
 <!--
 **Sorrint/Sorrint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
